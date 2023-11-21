@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/csWordle/static/css/main.437ef974.css",
+    "main.js": "/csWordle/static/js/main.3c1cc660.js",
+    "static/js/787.3a72d9c9.chunk.js": "/csWordle/static/js/787.3a72d9c9.chunk.js",
+    "static/media/wordle-bank.txt": "/csWordle/static/media/wordle-bank.72f3029991f741f865f0.txt",
+    "static/media/cs-definition-bank.txt": "/csWordle/static/media/cs-definition-bank.4c8c3ee0a9415464e02f.txt",
+    "index.html": "/csWordle/index.html",
+    "static/media/cs-wordle-bank.txt": "/csWordle/static/media/cs-wordle-bank.217295e6f5990283b88e.txt",
+    "main.437ef974.css.map": "/csWordle/static/css/main.437ef974.css.map",
+    "main.3c1cc660.js.map": "/csWordle/static/js/main.3c1cc660.js.map",
+    "787.3a72d9c9.chunk.js.map": "/csWordle/static/js/787.3a72d9c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.437ef974.css",
+    "static/js/main.3c1cc660.js"
+  ]
+}

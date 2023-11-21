@@ -1,0 +1,68 @@
+Abort: To terminate or cancel a process or operation prematurely.
+Add-in: A software component that adds functionality to a host application.
+Add-on: An extension or enhancement to a computer program.
+Algol: A high-level programming language, influential in the development of later languages.
+Apple: Refers to the technology company known for its hardware and software products.
+Arial: A typeface commonly used in computer interfaces and documents.
+Ascii: American Standard Code for Information Interchange, a character encoding standard.
+Basic: Beginner's All-purpose Symbolic Instruction Code, a simple programming language.
+Block: A section of code or data treated as a single unit.
+Board: A printed circuit board, often the main component in electronic devices.
+Cache: A hardware or software component that stores frequently accessed data.
+CD-Rom: Compact Disc Read-Only Memory, a type of optical disc for data storage.
+Click: To press and release a mouse button, often used to interact with graphical interfaces.
+Close: To terminate or shut down a program or file.
+Cloud: Refers to internet-based computing where resources are accessed remotely.
+Cobol: Common Business-Oriented Language, a programming language for business applications.
+Coral: Refers to a type of programming language used for parallel computing.
+Crash: A sudden failure of a computer system or software application.
+Debug: The process of identifying and fixing errors or bugs in software.
+Email: Electronic mail, a method of exchanging digital messages over the internet.
+Eprom: Erasable Programmable Read-Only Memory, a type of non-volatile memory.
+Erase: To remove or delete data or content from a storage device.
+Excel: A spreadsheet program developed by Microsoft.
+E-zine: Electronic magazine, a publication distributed in digital format.
+Field: A space in a database record where specific data is stored.
+Flash: Refers to a type of non-volatile computer storage.
+Forth: A stack-based programming language.
+Forum: An online discussion platform where users can post and interact.
+Frame: A single image or still of a video sequence.
+Gates: Refers to Bill Gates, co-founder of Microsoft.
+Image: A visual representation or likeness of an object or scene.
+Input: Data provided to a computer for processing.
+Intel: Refers to Intel Corporation, a major semiconductor company.
+Laser: Light Amplification by Stimulated Emission of Radiation.
+Layer: A level or tier in a computer system or protocol.
+Logic: The study of reasoning and computation.
+Login: The process of gaining access to a computer system or network.
+Logon: The act of logging onto a computer system.
+Macro: A sequence of instructions that represent a task and can be executed with a single command.
+Media: The physical or digital means used to store and transmit information.
+Micro: Refers to microprocessors or small-scale technology.
+Modem: A device that modulates and demodulates analog signals for digital data transmission.
+Morph: To transform or change the shape of an object or image.
+Mouse: A pointing device used to interact with a computer's graphical user interface.
+MS-Dos: Microsoft Disk Operating System, an early operating system by Microsoft.
+Octal: A numeral system based on the number eight.
+Paint: A graphic editing program for creating and manipulating digital images.
+Panel: A graphical user interface element that contains controls or information.
+Patch: A piece of software designed to update or fix a computer program or its supporting data.
+Pixel: The smallest unit of a digital image.
+Pop-up: A graphical user interface element that appears on top of the current content.
+Proxy: An intermediary server that acts as a gateway between a user and a destination server.
+Purge: To remove or eliminate unwanted data or files.
+Query: A request for information from a database.
+Queue: A data structure that follows the First-In-First-Out (FIFO) principle.
+Reset: To restart a computer system or device.
+Robot: A programmable machine capable of carrying out tasks autonomously.
+Shell: The command-line interface that allows users to interact with the operating system.
+Spool: Simultaneous Peripheral Operations On-Line, a system for managing print jobs.
+Stack: A data structure that follows the Last-In-First-Out (LIFO) principle.
+Stats: Short for statistics, referring to numerical data analysis.
+Suite: A collection of software applications bundled together.
+Table: A data structure for organizing and storing information.
+Track: A section of a storage device where data is stored.
+Tweet: A message posted on Twitter, a microblogging platform.
+Unix: A powerful and widely used operating system.
+Virus: Malicious software that can replicate and harm computer systems.
+Write: To create or edit content, typically referring to text or code.
